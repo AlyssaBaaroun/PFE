@@ -1,2 +1,2 @@
-# RushTeam-PFE
+# RushTeam Cahier des charges
 
