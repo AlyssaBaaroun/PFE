@@ -46,11 +46,11 @@ Il se connecte sur son ordinateur à l'application RushTeam et complète le tabl
 Dans ce tableau, il retrouve :
 
 * Le collaborateur (ex : Alyssa Baaroun)
-* Le rôle
+* Le rôle (ex : étudiants, employé, chef...)
 * Les jours de la semaine
-* Le nombre d'heures à prester par jour et l'horaire planifié
-* Les heures contractuelles
-* Le total d'heures sur la semaine (parfois un peu plus / un peu moins)
+* Le nombre d'heures à prester par jour et l'horaire planifié (ex : 22-06)
+* Les heures contractuelles (ex : 15H semaine)
+* Le total d'heures sur la semaine (parfois un peu plus / un peu moins, le manager prévois parfois plus d'heures une semaine et en mets un peu moins la semaine suivante)
 * L'ajout du poste
 
 Une sauvegarde automatique est mise en place et, une fois qu'il a terminé, chaque collaborateur reçoit une notification que le planning a été posté.
@@ -75,9 +75,9 @@ Dans ce formulaire, on retrouve :
 
 * Le nom et prénom de l'étudiant
 * Le nombre d'heures qu'il souhaite faire par semaine
-* Les dates de début et de fin de contrat
-* Ses disponibilités
-* Un moyen d'importer son attestation scolaire ainsi que son student at work
+* Les dates de début et de fin de contrat (ex du 01/09 au 27/09, l'étudiant/employé n'est pas obligé de prendre des mois complet)
+* Ses disponibilités (ex : je suis dispo à partir de 18H les vendredi etc)
+* Un moyen d'importer son attestation scolaire ainsi que son student at work (Student at work est généré via ItsMe)
 * Le moyen d'ajouter un éventuel commentaire pour le manager qui se chargera de faire les contrats
 
 Alice suit l'état de sa demande dans l'app et reçoit une notification quand son contrat est prêt.
@@ -88,7 +88,7 @@ Alice suit l'état de sa demande dans l'app et reçoit une notification quand so
 > Authentification
 
 * Identifiant
-* Mot de passe / mot de passe oublié
+* Identifiant unique du restaurant (ex : Quick Herstal => BeP554)
 * Affichage de l'interface selon le rôle
 
 > Horaires
@@ -96,12 +96,12 @@ Alice suit l'état de sa demande dans l'app et reçoit une notification quand so
 * Notification de quand il est posté
 * Vue de son horaire
 * Possibilité de voir les horaires des autres
-* Consultation de l'horaire hors ligne
+* Consultation de l'horaire hors ligne !!
 
 > Équipe
 
 * Liste des collaborateurs selon leur rôle
-* Fiche d'un collaborateur
+* Fiche d'un collaborateur (Nom, prénom, rôle)
 
 > Messagerie
 
