@@ -37,7 +37,7 @@ Les différentes informations sont propagées sur plusieurs plateformes, telles 
 L'objectif est de fournir aux étudiants et aux membres du personnel de l'enseigne de fast-food une application moderne et simple d'utilisation pour gérer au mieux tous les points énoncés ci-dessus.
 
 ## Personas et parcours utilisateurs
-### 4.1 Vincent, manager et planificateur d'horaires et des équipes
+### Vincent, manager et planificateur d'horaires et des équipes
 
 Il gère une équipe de plus de 40 personnes dont beaucoup d'étudiants. Son objectif est de faire les horaires rapidement et facilement, ainsi que de respecter les disponibilités et contraintes de chaque membre de son équipe.
 
@@ -55,19 +55,19 @@ Dans ce tableau, il retrouve :
 
 Une sauvegarde automatique est mise en place et, une fois qu'il a terminé, chaque collaborateur reçoit une notification que le planning a été posté.
 
-### 4.2 Lisa, étudiante qui souhaite échanger son horaire et contacter son manager pour lui demander la permission
+### Lisa, étudiante qui souhaite échanger son horaire et contacter son manager pour lui demander la permission
 
 Lisa reçoit son horaire et voit qu'elle a un empêchement le samedi matin alors qu'elle fait un 8-15. Elle voit grâce à l'horaire général que Sabine travaille ce jour-là et fait un 18-1. Elle décide donc d'envoyer un message à Sabine via la messagerie de l'app et lui demande d'échanger son horaire.
 
 Plus tard, après que Sabine a accepté le changement, Lisa envoie ensuite la demande d'échange à Vincent. Une modification sur le linéaire du jour pourra être faite.
 
-### 4.3 Manon, sous-cheffe qui fait une annonce générale afin que des étudiants reprennent des horaires suite à des personnes qui ne pourront pas assurer leurs horaires
+### Manon, sous-cheffe qui fait une annonce générale afin que des étudiants reprennent des horaires suite à des personnes qui ne pourront pas assurer leurs horaires
 
 Manon reçoit plusieurs messages d'employés qui ne peuvent pas assurer leurs horaires de la semaine. Elle décide donc de publier une annonce avec les différents horaires à reprendre.
 
 Chaque collaborateur (étudiants / membres) peut se proposer afin de reprendre un ou plusieurs horaires. Des horaires peuvent également ne pas être pris ; dans ce cas, la case reste vide.
 
-### 4.4 Lisa, étudiante qui demande le renouvellement de son contrat étudiant
+### Alice, étudiante qui demande le renouvellement de son contrat étudiant
 
 Le contrat étudiant de Lisa arrive à terme. Elle voit que Vincent a publié une annonce pour les contrats de mars 2027. Elle décide donc d'aller dans l'application et, dans l'onglet « demande de contrat », elle remplit le formulaire de demande.
 
@@ -84,7 +84,7 @@ Lisa suit l'état de sa demande dans l'app et reçoit une notification quand son
 
 ## Fonctionnalités principales
 
-### 5.1 Partie commune (app mobile)
+### Partie commune (app mobile)
 > Authentification
 
 * Identifiant
@@ -113,7 +113,7 @@ Lisa suit l'état de sa demande dans l'app et reçoit une notification quand son
 * Réactions aux différentes annonces
 * Consultation de différentes annonces
 
-#### 5.2 Partie collaborateurs (app mobile)
+#### Partie collaborateurs (app mobile)
 > Demande de contrat
 
 * Formulaire de demande
@@ -129,18 +129,18 @@ Lisa suit l'état de sa demande dans l'app et reçoit une notification quand son
 
 * Liste des différents horaires à reprendre (n'importe quel jour de la semaine à venir)
 
-#### 5.3 Partie sous-chef (app mobile)
+#### Partie sous-chef (app mobile)
 
 * Publication d'annonces
 * Publication d'horaires à reprendre
 
-#### 5.4 Partie chef (app mobile)
+#### Partie chef (app mobile)
 
 * Accepter les changements d'horaires
 * Les mêmes fonctionnalités mentionnées au-dessus
 * Ajout, modification, suppression d'annonces
 
-#### 5.5 Partie admin (site web)
+#### Partie admin (site web)
 > Dashboard
 
 * Demandes en attente
