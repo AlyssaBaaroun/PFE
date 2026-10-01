@@ -5,11 +5,12 @@ Application web de gestion des horaires et du personnel développée dans le cad
 
 ## Sommaire
 
-1. Présentation du projet
-2. Contexte de l'application
-3. Objectif
-4. Personas et parcours utilisateurs
-5. Fonctionnalités principales
+1. [Présentation du projet](#présentation-du-projet)
+2. [Contexte de l'application](#contexte-de-lapplication)
+3. [Objectif](#objectif)
+4. [Personas et parcours utilisateurs](#personas-et-parcours-utilisateurs)
+5. [Fonctionnalités principales](#fonctionnalités-principales)
+
 
 ## Présentation du projet
 
@@ -32,9 +33,11 @@ Les différentes informations sont propagées sur plusieurs plateformes, telles 
 * Discussions entre collègues et managers
 * Demande de contrat…
 
+
 ## Objectif
 
 L'objectif est de fournir aux étudiants et aux membres du personnel de l'enseigne de fast-food une application moderne et simple d'utilisation pour gérer au mieux tous les points énoncés ci-dessus.
+
 
 ## Personas et parcours utilisateurs
 ### Vincent, manager et planificateur d'horaires et des équipes
@@ -81,6 +84,7 @@ Dans ce formulaire, on retrouve :
 * Le moyen d'ajouter un éventuel commentaire pour le manager qui se chargera de faire les contrats
 
 Alice suit l'état de sa demande dans l'app et reçoit une notification quand son contrat est prêt.
+
 
 ## Fonctionnalités principales
 
