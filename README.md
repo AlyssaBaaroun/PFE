@@ -69,7 +69,7 @@ Chaque collaborateur (étudiants / membres) peut se proposer afin de reprendre u
 
 ### Alice, étudiante qui demande le renouvellement de son contrat étudiant
 
-Le contrat étudiant de Lisa arrive à terme. Elle voit que Vincent a publié une annonce pour les contrats de mars 2027. Elle décide donc d'aller dans l'application et, dans l'onglet « demande de contrat », elle remplit le formulaire de demande.
+Le contrat étudiant d'Alice arrive à terme. Elle voit que Vincent a publié une annonce pour les contrats de mars 2027. Elle décide donc d'aller dans l'application et, dans l'onglet « demande de contrat », elle remplit le formulaire de demande.
 
 Dans ce formulaire, on retrouve :
 
@@ -80,7 +80,7 @@ Dans ce formulaire, on retrouve :
 * Un moyen d'importer son attestation scolaire ainsi que son student at work
 * Le moyen d'ajouter un éventuel commentaire pour le manager qui se chargera de faire les contrats
 
-Lisa suit l'état de sa demande dans l'app et reçoit une notification quand son contrat est prêt.
+Alice suit l'état de sa demande dans l'app et reçoit une notification quand son contrat est prêt.
 
 ## Fonctionnalités principales
 
@@ -101,7 +101,7 @@ Lisa suit l'état de sa demande dans l'app et reçoit une notification quand son
 > Équipe
 
 * Liste des collaborateurs selon leur rôle
-* Fiche d'un collaborateur (ça je vais voir)
+* Fiche d'un collaborateur
 
 > Messagerie
 
